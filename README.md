@@ -1,1 +1,1 @@
-# NERA_-NLP_Workshop
+# NERA_NLP_Workshop
